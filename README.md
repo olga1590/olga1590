@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Olga Kim
 - 👀 I’m passionated about AI, Data Science
-- 🌱 I’m currently studying at VeraVla edu Online School
+- 🌱 I’ve studied at VeraVla edu Online School
 - 💞️ I’m looking to collaborate on AI and Data Science projects
 - 📫 How to reach me: kimolga1512@gmail.com
 
