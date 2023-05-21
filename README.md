@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Olga Kim
 - 👀 I’m passionated about AI, Data Science
 - 🌱 I’ve studied at VeraVla edu Online School
-- 💞️ I’m looking to collaborate on AI and Data Science projects
+- 💞️ I like finding pattern and insights in the data
 - 📫 How to reach me: kimolga1512@gmail.com
 
 ### * Why I like AI? *
